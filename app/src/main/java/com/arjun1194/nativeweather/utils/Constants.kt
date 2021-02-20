@@ -5,4 +5,5 @@ object Constants {
     const val BASE_URL = "https://api.openweathermap.org/data/2.5/"
     const val NETWORK_ERROR_MESSAGE = "Network Request Failed"
     const val SHARED_PREF_NAME = "MAIN"
+    const val LOCATION_PERMISSION_DENIED_MESSAGE = "Location Permissions Denied"
 }
